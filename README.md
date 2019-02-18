@@ -1,3 +1,3 @@
-# week3
+# week3_Pierce_Hopkins
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1e37a1a45fd828a9cb10)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/d4bec65879a1d1c990f6)

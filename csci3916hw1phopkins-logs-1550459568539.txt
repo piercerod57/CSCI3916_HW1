@@ -1,0 +1,15 @@
+2019-02-18T03:01:38.070192+00:00 heroku[web.1]: Starting process with command `node app.js`
+2019-02-18T03:01:39.799674+00:00 app[web.1]: Server listening at 8008
+2019-02-18T03:01:40.264672+00:00 heroku[web.1]: State changed from starting to up
+2019-02-18T03:01:44.415012+00:00 heroku[router]: at=info method=GET path="/" host=csci3916hw1phopkins.herokuapp.com request_id=6ad9f669-b011-43fe-8d7a-c18319aaea7a fwd="97.118.193.55" dyno=web.1 connect=1ms service=5ms status=200 bytes=94 protocol=https
+2019-02-18T03:01:44.522457+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=csci3916hw1phopkins.herokuapp.com request_id=9cee87c8-23b2-4741-8917-83264f38662a fwd="97.118.193.55" dyno=web.1 connect=0ms service=1ms status=200 bytes=94 protocol=https
+2019-02-18T03:01:44.412372+00:00 app[web.1]: 
+2019-02-18T03:01:44.521035+00:00 app[web.1]: 
+2019-02-18T03:07:33.228586+00:00 heroku[router]: at=info method=GET path="/" host=csci3916hw1phopkins.herokuapp.com request_id=d449fe25-7401-464c-8f46-a1073a809643 fwd="97.118.193.55" dyno=web.1 connect=1ms service=2ms status=200 bytes=94 protocol=https
+2019-02-18T03:07:33.228130+00:00 app[web.1]: 
+2019-02-18T03:07:33.396169+00:00 app[web.1]: 
+2019-02-18T03:07:33.396822+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=csci3916hw1phopkins.herokuapp.com request_id=a6769762-2722-4de9-b069-8730bd10cfc5 fwd="97.118.193.55" dyno=web.1 connect=1ms service=2ms status=200 bytes=94 protocol=https
+2019-02-18T03:08:08.123115+00:00 app[web.1]: Hello Heroku
+2019-02-18T03:08:08.124803+00:00 heroku[router]: at=info method=GET path="/" host=csci3916hw1phopkins.herokuapp.com request_id=db36416e-73b9-4781-bbf2-05ae7f40840c fwd="97.118.193.55" dyno=web.1 connect=1ms service=5ms status=200 bytes=107 protocol=https
+2019-02-18T03:09:53.168586+00:00 heroku[router]: at=info method=GET path="/" host=csci3916hw1phopkins.herokuapp.com request_id=e38fbdf5-34af-42ed-9d67-c11a613b5323 fwd="97.118.193.55" dyno=web.1 connect=1ms service=2ms status=200 bytes=107 protocol=https
+2019-02-18T03:09:53.168226+00:00 app[web.1]: Hello Heroku
