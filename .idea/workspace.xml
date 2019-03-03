@@ -97,7 +97,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1983" />
     <option name="y" value="68" />
     <option name="width" value="1597" />
@@ -235,8 +235,7 @@
     <option name="totallyTimeSpent" value="7296000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1983" y="68" width="1597" height="941" extended-state="0" />
-    <editor active="true" />
+    <frame x="1983" y="68" width="1597" height="941" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.26234767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
